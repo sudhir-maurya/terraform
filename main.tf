@@ -1,4 +1,4 @@
-terraform {
+trraform {
   required_providers {
     docker = {
       source  = "kreuzwerker/docker"
@@ -22,4 +22,3 @@ resource "docker_container" "nginx" {
     external = 8089
   }
 }
-
