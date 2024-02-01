@@ -1,0 +1,6 @@
+SECRET=<secret_generated_from_script>
+TOKEN=<github PAT>
+URL=<atlantis url>
+USERNAME=<github username>
+REPO_ALLOWLIST="github.com/sudhir-maurya/terraform"
+REPO_CONFIG="./repos.yaml"
